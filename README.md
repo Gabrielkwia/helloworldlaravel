@@ -1,12 +1,13 @@
 # **PROJETO: helloworldlaravel**
 Criando o primeiro repositório de exemplo no Github.
 
-## Desenvolvido por: Gabriek Kwiatkowski
-## Disciplica: Desenvolvimento Web II / UNC - Campus Mafra / 2021/2
+## **Desenvolvido por:** Gabriel Kwiatkowski
+## **Disciplina:** Desenvolvimento Web II / UNC - Campus Mafra / 2021/2
 
 ## **Tecnologias Utilizadas**
-* HTML5 + CSS3
-* PHP7
+* WAMP 
 * Composer
 * Lavarel 7
-* MySQL (5.7)
+* Bootstrap
+
+_OBSERVAÇÂO:_ Futuramente o projeto passará a utilizar Docker!
